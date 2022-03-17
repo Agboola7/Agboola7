@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Agboola7
-- 👀 I’m interested in web development and cyber security...
-- 🌱 I’m currently learning .HTML, CSS, JavaScript, React ..
-- 💞️ I’m looking to collaborate on .Web Development Internships..
+- 👀 I’m interested in web development,Cloud Engineering and Blockchain Technology. 
+- 🌱 I'm currently learning HTML, CSS, JavaScript, React ..
+- 💞️ I’m looking to collaborate on Web Development projects and Internships..
 - 📫 How to reach me .ologunroagboola@gmail.com..
 
 <!---
